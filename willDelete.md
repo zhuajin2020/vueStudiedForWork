@@ -1,0 +1,3 @@
+self restrict 
+struggle 
+study
